@@ -8,5 +8,9 @@ function iterativeLog(array)
 function iterate(){
   var array = ["test", "test2"] 
   
+}
+
+function doToArray(array, callback){
+  
   
 }
