@@ -6,7 +6,7 @@ function iterativeLog(array)
 }
 
 function iterate(){
-  var array = ["test"] 
+  var array = ["test", "test2"] 
   
   
 }
